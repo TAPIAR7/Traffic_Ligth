@@ -11,3 +11,11 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.light {
+    height: 50px;
+    width: 50px;
+}
+
+.selected {
+    box-shadow: 0px 0px 10px 10px #FFFF00;
+}
